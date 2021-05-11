@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jmclong
-- 👀 I’m interested in deep learning and optimization
-- 🌱 I’m currently learning PyTorch
-- 📫 Reach me at joshualong @ live.com
+- 👋 Hi, I’m @jmclong, currently MSCS student at Georgia Tech, graduating Fall 2021
+- 👀 I’m interested in deep learning, optimization, and blockchain
+- 🌱 I’m currently learning PyTorch and Solidity!
+- 📫 Reach me at joshualong@live.com
 
 <!---
 jmclong/jmclong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
